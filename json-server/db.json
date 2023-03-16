@@ -1,0 +1,114 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-5p575zqtomovf4",
+        "name": "Bộ kem dưỡng trắng da toàn diện cao cấp 9 món OHUI Extrem White Cream 9pcs Set",
+        "oldPrice": "6.700.000đ",
+        "newPrice": "2.667.000đ",
+        "sold": "17 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "36%"
+      },
+      {
+        "id": 2,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-526vm8qtomov83_tn",
+        "name": "Bộ dưỡng ẩm mịn mượt căng sáng da OHUI Miracle Moisture Cream Special Set",
+        "oldPrice": "2.270.000đ",
+        "newPrice": "1.500.000đ",
+        "sold": "383 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "35%"
+      },
+      {
+        "id": 3,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-wje9o2kuomovaf_tn",
+        "name": "[Mã COSLUX03 giảm 120K] Kem chống nắng cho da nhạy cảm OHUI Day Shield Perfect Sun Red SPF50+ PA++++ 50ml",
+        "oldPrice": "950.000đ",
+        "newPrice": "812.000đ",
+        "sold": "251 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "15%"
+      },
+      {
+        "id": 4,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-kuua7haipmove0_tn",
+        "name": "Bộ phục hồi da lão hoá 8 món OHUI Age Recovery 8pcs Special Set",
+        "oldPrice": "7.500.000đ",
+        "newPrice": "3.499.000đ",
+        "sold": "68 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "53%"
+      },
+      {
+        "id": 5,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-bn5csxt0hnov9a_tn",
+        "name": "[Tặng thêm lõi refill 15g] Phấn nước che khuyết điểm OHUI Ultimate Cover Concealer Metal Cushion SPF35 PA++ 15g",
+        "oldPrice": "1.200.000đ",
+        "newPrice": "1.050.000đ",
+        "sold": "108 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "13%"
+      },
+      {
+        "id": 6,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-rf2pn3d9inov07_tn",
+        "name": "[Mã COSLUX03 giảm 120K] Tinh chất bổ sung collagen cải thiện nếp nhăn OHUI Age Recovery Essence 50ml",
+        "oldPrice": "2.900.000đ",
+        "newPrice": "2.580.000đ",
+        "sold": "34 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "11%"
+      },
+      {
+        "id": 7,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-1u2sqwezomove1_tn",
+        "name": "Phấn nước che khuyết điểm và nâng cơ vượt trội O HUI Ultimate Cover Lifting Cushion SPF50+ PA+++ - Tặng 1 lõi refill",
+        "oldPrice": "1.500.000đ",
+        "newPrice": "1.399.000đ",
+        "sold": "16 đã bán",
+        "brand": "OHUI",
+        "origin" : "Nhật Bản",
+        "percent" : "7%"
+      },
+      {
+        "id": 8,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-grdkq40uomov04_tn",
+        "name": "[Mã COSLUX03 giảm 120K] Gel tẩy tế bào chết OHUI Clear Science Soft Peeling 100ml",
+        "oldPrice": "500.000đ",
+        "newPrice": "425.000đ",
+        "sold": "567 đã bán",
+        "brand": "OHUI",
+        "origin" : "Nhật Bản",
+        "percent" : "15%"
+      },
+      {
+        "id": 9,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-5ldfyt9uomov3b_tn",
+        "name": "[Mã COSLUX03 giảm 120K] Tinh chất dưỡng trắng OHUI Extreme White Serum 45ml",
+        "oldPrice": "2.300.000đ",
+        "newPrice": "2.070.000đ",
+        "sold": "130 đã bán",
+        "brand": "OHUI",
+        "origin" : "Hàn Quốc",
+        "percent" : "43%"
+      },
+      {
+        "id": 10,
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-bvqnlz3tomovf3_tn",
+        "name": "[Mã COSLUX03 giảm 120K] Nước cân bằng OHUI The First Geniture Skin Softener 150ml",
+        "oldPrice": "2.200.000đ",
+        "newPrice": "1.980.000đ",
+        "sold": "26 đã bán",
+        "brand": "OHUI",
+        "origin" : "Nhật Bản",
+        "percent" : "11%"
+      }
+    ]
+  }
